@@ -16,4 +16,4 @@
 ## Exercício 5: Acumulador e Média de Notas <br>Crie um algoritmo em Dart que simule a soma de 4 notas de um aluno (exemplo: nota = 8.5) utilizando o laço while. O programa deve somar o valor da nota 4 vezes em uma variável acumuladora e, ao final do laço, calcular e exibir a média final na tela.
 <br>
 
-## Exercício 6: Potências de 2 <br>Escreva um programa em Dart que calcule e imprima as potências de 2 desde 2⁰ até 2⁸ utilizando o laço while.
+## Exercício 6: Potências de 2 <br>Escreva um programa em Dart que calcule e imprima as potências de 2 desde 2¹ até 2⁸ utilizando o laço while.
